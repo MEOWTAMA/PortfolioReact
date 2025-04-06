@@ -4,7 +4,7 @@ import { FaLinkedin, FaEnvelope, FaTwitter, FaGithub } from 'react-icons/fa';
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-8 mt-12 text-center">
-      <p className="text-sm">© 2024 Chetan Khole | Built with ❤️ and React.js</p>
+      <p className="text-sm">© 2025 Chetan Khole | Built with ❤️ and React.js</p>
       <div className="flex justify-center space-x-6 mt-4">
         <a
           href="https://www.linkedin.com/in/chetan-khole-607263187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
